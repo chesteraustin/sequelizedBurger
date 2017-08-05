@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "username",
-    "password": "password",
-    "database": "bootcamp_db",
-    "host": "127.0.0.1",
+    "username": "nvn0kpvxxx4l7oir",
+    "password": "bfmn8cmmirjzgbki",
+    "database": "wv3j98065rnujong",
+    "host": "dyud5fa2qycz1o3v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
